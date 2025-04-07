@@ -1,0 +1,23 @@
+[33mcommit 7ca009bb2de8e8c0e0f765874b9fc3598d66be7b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: astel william <astelwilliam11@gmail.com>
+Date:   Sat Apr 5 06:09:41 2025 +0530
+
+    Added backend code
+
+[33mcommit 8fb6c0651ef0699ef8bb0e18605a9d9e702fae4d[m
+Author: astel william <astelwilliam11@gmail.com>
+Date:   Sat Apr 5 06:03:00 2025 +0530
+
+    Initial backend setup with user registration/login
+
+[33mcommit b9815041ec5327c594c7d8673c3b7bca7e0fec62[m
+Author: astelwilliam <79445207+astelwilliam@users.noreply.github.com>
+Date:   Sat Apr 5 05:03:56 2025 +0530
+
+    README.md
+
+[33mcommit e847a9b33bc77381f862f0a2f4cc610357f439cf[m
+Author: astelwilliam <79445207+astelwilliam@users.noreply.github.com>
+Date:   Sat Apr 5 04:47:29 2025 +0530
+
+    Create README.
