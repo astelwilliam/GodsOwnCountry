@@ -1,0 +1,6 @@
+[submodule "godscountrybackend"]
+	path = godscountrybackend
+	url = ./godscountrybackend
+[submodule "godscountryfrontend"]
+	path = godscountryfrontend
+	url = ./godscountryfrontend
